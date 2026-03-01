@@ -88,12 +88,7 @@ CA accepted
 2. Create a new project
 3. Paste the script into the editor
 4. Save the project
-5. Run the main function:
-
-```javascript
-createTaxActAcceptanceDraftRepliesFast()
-```
-
+5. Run it
 6. Authorize the required Gmail permissions when prompted
 
 ## Configuration
